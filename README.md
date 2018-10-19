@@ -1,4 +1,4 @@
-# MCrypP
+# MYPcryp
 
 Creator: Matt Peng
 Contributors: #
