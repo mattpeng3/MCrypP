@@ -1,0 +1,17 @@
+{
+  "name": "MYPcryp",
+  "version": "1.0.0",
+  "description": "A cryptocurrency",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "Matt Peng",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
