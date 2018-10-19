@@ -5,9 +5,13 @@ Contributors: #
 
 MYPcryp is a cryptocurrency built off the ethereum platform.
 
+Similar to DappToken built by DapppUniversity
+
 Code is contained within the code file.
 
-The goal is to crowdsource this cryptocurrency with token wizrd.
+Test driven development with Mocha js test framework.
+
+The goal is to crowdsource this cryptocurrency with token wizard.
 
 Complies to ERC-20 standard as outlined by the Ethereum documentation.
 ------------------------------------------------------------------------
