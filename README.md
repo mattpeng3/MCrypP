@@ -18,4 +18,6 @@ Complies to ERC-20 standard as outlined by the Ethereum documentation.
 If you are intereseted in helping/investing: mattpeng3@gmail.com
 
 # To Test This Product
+MYPcrypSale.deployed().then(function(i){tokenSale=i;})
+MYPcryp.deployed().then(function(i){token=i;})
 
